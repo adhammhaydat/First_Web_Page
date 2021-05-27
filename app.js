@@ -4,7 +4,7 @@ var userName = prompt("Whats your name ?");
 alert("welcome  " + userName )
 
 
-var loverWebSite = prompt(" what kind of cars do you love?");
+var loverWebSite = prompt(" what kind of web site do you love?");
 
 
 if(loverWebSite === nameWebSite ){
